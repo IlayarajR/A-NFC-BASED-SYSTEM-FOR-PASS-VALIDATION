@@ -1,5 +1,7 @@
 # A-NFC-BASED-SYSTEM-FOR-PASS-VALIDATION
-The present disclosure aims to address and improve various limitations of the traditional paper-based train pass system. Key objectives include:
+The present disclosure aims to address and improve various limitations of the traditional paper-based train pass system. 
+
+Key objectives include:
 
   Improving existing paper-based train passes.
 
